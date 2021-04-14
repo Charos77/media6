@@ -54,6 +54,8 @@ nav{
   
 }
 
+
+
 .link{
     padding: 53px 15px;
     display: inline-block;
@@ -95,6 +97,9 @@ nav{
     
 }
 
+.main__banner{
+    width: 100%;
+}
 
 .list_1{
     width: 25%;
@@ -167,7 +172,7 @@ h2{
 
 
 .desc{
-max-width: 475px;
+max-width: 100%;
 
 }
 
@@ -178,9 +183,8 @@ max-width: 475px;
 
 
 .desc_2{
-    max-width: 540px;
-    margin-left: 20px;
-    margin-top: 10px;
+    width: 100%;
+    text-align: justify;
 }
 
 
